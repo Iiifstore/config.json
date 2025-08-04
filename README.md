@@ -1,1 +1,4 @@
-# config.json
+{
+  "maintenance": false,
+  "message": "🚧 Bot sedang maintenance ."
+}
